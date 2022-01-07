@@ -12,9 +12,10 @@
         <module name="002-springboot-first" />
         <module name="004-springboot-three" />
         <module name="springboot" />
-        <module name="006-springboot-environment" />
         <module name="020-springboot-restful" />
         <module name="021-springboot-redis" />
+        <module name="006-springboot-environment" />
+        <module name="028-thymeleaf-course" />
         <module name="009-springboot-jsp" />
         <module name="018-springboot-mapperscan" />
         <module name="016-springboot-character-properties" />
@@ -64,6 +65,7 @@
       <module name="024-consumer" options="-parameters" />
       <module name="025-springboot-war" options="-parameters" />
       <module name="027-thymeleaf-first" options="-parameters" />
+      <module name="028-thymeleaf-course" options="-parameters" />
       <module name="_003-springboot-second" options="-parameters" />
     </option>
   </component>
