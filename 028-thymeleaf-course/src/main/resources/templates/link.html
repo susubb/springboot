@@ -13,6 +13,10 @@
     <a th:href="@{/tpl/queryAccount}">相对地址，没有参数</a>
     <h3>链接的相对地址，使用字符串链接传递参数</h3>
     <a th:href="@{'/tpl/queryAccount?id=' + ${userId}}">获取model中数据</a>
+    <h3>推荐使用的传参数的方式</h3>
+    <a th:href="@{'/tpl/queryAccount(id=${userId}}))}">获取model中数据</a>
+    <h3>传递多个参数</h3>
+    <a th:href="@{'/tpl/queryUser(name='lisi',age=20)}">获取model中数据</a>
 
 </body>
 </html>
