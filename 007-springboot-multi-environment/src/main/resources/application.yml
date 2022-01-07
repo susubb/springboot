@@ -1,0 +1,8 @@
+#\u6FC0\u6D3B\u4F7F\u7528\u54EA\u4E2A\u914D\u7F6E\u6587\u4EF6
+#\u4F7F\u7528dev
+#spring.profiles.active=dev
+
+#激活使用的test环境
+spring:
+  profiles:
+    active: test

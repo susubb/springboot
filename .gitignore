@@ -1,0 +1,3 @@
+# 项目排除路径
+/001-pre/target/
+/022-interface-api/target/

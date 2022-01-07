@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="017-springboot-mapper" />
+        <module name="027-thymeleaf-first" />
+        <module name="011-springboot-commandlinerunner" />
+        <module name="002-springboot-first" />
+        <module name="004-springboot-three" />
+        <module name="springboot" />
+        <module name="006-springboot-environment" />
+        <module name="020-springboot-restful" />
+        <module name="021-springboot-redis" />
+        <module name="009-springboot-jsp" />
+        <module name="018-springboot-mapperscan" />
+        <module name="016-springboot-character-properties" />
+        <module name="014-springboot-filter" />
+        <module name="008-springboot-custom-yml" />
+        <module name="023-service-provider" />
+        <module name="007-springboot-multi-environment" />
+        <module name="025-springboot-war" />
+        <module name="024-consumer" />
+        <module name="013-springboot-servlet" />
+        <module name="019-springboot-transactional" />
+        <module name="010-springboot-container" />
+        <module name="005-springboot-mvc" />
+        <module name="_003-springboot-second" />
+        <module name="022-interface-api" />
+        <module name="012-springboot-interceptor" />
+        <module name="015-springboot-character-filter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="003-springboot-second" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="002-springboot-first" options="-parameters" />
+      <module name="003-springboot-second" options="-parameters" />
+      <module name="004-springboot-three" options="-parameters" />
+      <module name="005-springboot-mvc" options="-parameters" />
+      <module name="006-springboot-environment" options="-parameters" />
+      <module name="007-springboot-multi-environment" options="-parameters" />
+      <module name="008-springboot-custom-yml" options="-parameters" />
+      <module name="009-springboot-jsp" options="-parameters" />
+      <module name="010-springboot-container" options="-parameters" />
+      <module name="011-springboot-commandlinerunner" options="-parameters" />
+      <module name="012-springboot-interceptor" options="-parameters" />
+      <module name="013-springboot-servlet" options="-parameters" />
+      <module name="014-springboot-filter" options="-parameters" />
+      <module name="015-springboot-character-filter" options="-parameters" />
+      <module name="016-springboot-character-properties" options="-parameters" />
+      <module name="017-springboot-mapper" options="-parameters" />
+      <module name="018-springboot-mapperscan" options="-parameters" />
+      <module name="019-springboot-transactional" options="-parameters" />
+      <module name="020-springboot-restful" options="-parameters" />
+      <module name="021-springboot-redis" options="-parameters" />
+      <module name="023-service-provider" options="-parameters" />
+      <module name="024-consumer" options="-parameters" />
+      <module name="025-springboot-war" options="-parameters" />
+      <module name="027-thymeleaf-first" options="-parameters" />
+      <module name="_003-springboot-second" options="-parameters" />
+    </option>
+  </component>
+</project>
